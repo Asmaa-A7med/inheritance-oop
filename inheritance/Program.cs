@@ -85,5 +85,3 @@
         }
     }
 }
-
-//compare betwwen not using inheritance and use it , sealed class
